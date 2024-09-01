@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGgrG65mktJ3sXyBLeptXYW/iz3QnBRmw/3WqZClbwAkU0Ce78DopjSWhtda6cW3RAb1ScW3/9MIlt/APLhP8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ekloe\\source\\repos\\DownloadYoutubeVideoCSharp\\DownloadYoutubeVideoCSharp\\DownloadYoutubeVideoCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ekloe\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\Ekloe\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Ekloe\\.nuget\\packages\\youtubeexplode\\6.4.0\\youtubeexplode.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
